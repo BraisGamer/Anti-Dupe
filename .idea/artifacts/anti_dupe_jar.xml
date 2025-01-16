@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="anti-dupe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/anti_dupe_jar</output-path>
+    <root id="archive" name="anti-dupe.jar">
+      <element id="module-output" name="anti-dupe" />
+    </root>
+  </artifact>
+</component>
